@@ -1,0 +1,11 @@
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\bin\Debug\ccom3036Project3.exe.config
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\bin\Debug\ccom3036Project3.exe
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\bin\Debug\ccom3036Project3.pdb
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.csproj.AssemblyReference.cache
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.Form1.resources
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.Properties.Resources.resources
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.csproj.GenerateResource.cache
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.csproj.CoreCompileInputs.cache
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.exe
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.pdb
+C:\Users\JJPM\source\repos\ccom3036Project3\ccom3036Project3\obj\Debug\ccom3036Project3.receipt.resources
